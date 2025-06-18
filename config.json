@@ -1,5 +1,5 @@
 {
-  "name": "Cornerstone",
+  "name": "CoolFire Theme 2025+",
   "version": "6.16.2-rc.2",
   "template_engine": "handlebars_v4",
   "meta": {
@@ -37,11 +37,7 @@
   },
   "css_compiler": "scss",
   "autoprefixer_cascade": true,
-  "autoprefixer_browsers": [
-    "> 1%",
-    "last 2 versions",
-    "Firefox ESR"
-  ],
+  "autoprefixer_browsers": ["> 1%", "last 2 versions", "Firefox ESR"],
   "settings": {
     "channels": [
       {
@@ -383,11 +379,7 @@
       "unionpay",
       "visa"
     ],
-    "supported_payment_methods": [
-      "card",
-      "paypal",
-      "bank"
-    ],
+    "supported_payment_methods": ["card", "paypal", "bank"],
     "lazyload_mode": "lazyload+lqip",
     "checkout-paymentbuttons-paypal-color": "black",
     "checkout-paymentbuttons-paypal-shape": "rect",
@@ -432,9 +424,7 @@
           "sales_discounts",
           "large_catalog"
         ],
-        "industries": [
-          "home_garden"
-        ]
+        "industries": ["home_garden"]
       },
       "images": {},
       "settings": {}
@@ -453,9 +443,7 @@
           "sales_discounts",
           "large_catalog"
         ],
-        "industries": [
-          "fashion_jewelry"
-        ]
+        "industries": ["fashion_jewelry"]
       },
       "settings": {
         "homepage_featured_products_count": 6,
@@ -665,9 +653,7 @@
           "sales_discounts",
           "large_catalog"
         ],
-        "industries": [
-          "food_beverage"
-        ]
+        "industries": ["food_beverage"]
       },
       "settings": {
         "body-font": "Google_Roboto_400",
